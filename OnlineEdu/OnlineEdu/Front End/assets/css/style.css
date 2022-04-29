@@ -35,7 +35,7 @@
 */
 body {
   font-family: "Poppins";
-  color: #81868a;
+  color: #012237;
   font-size: 16px;
   line-height: 34px;
   letter-spacing: -0.02em;
@@ -2685,7 +2685,7 @@ a:visited {
 }
 
 .pricing-one__price {
-  font-size: 60px;
+  font-size: 35px;
   font-weight: 400;
   margin: 0;
   line-height: 1em;
@@ -3607,7 +3607,6 @@ a:visited {
 }
 .course-details__meta-link span {
   color: #012237;
-  margin-left: 15px;
 }
 .course-details__meta-link:nth-child(1) .course-details__meta-icon {
   background-color: #1888c9;
