@@ -1,0 +1,6 @@
+D:\QTDACNTT\OnlineEdu\OnlineEdu\bin\OnlineEdu.dll.config
+D:\QTDACNTT\OnlineEdu\OnlineEdu\bin\OnlineEdu.dll
+D:\QTDACNTT\OnlineEdu\OnlineEdu\bin\OnlineEdu.pdb
+D:\QTDACNTT\OnlineEdu\OnlineEdu\obj\Debug\OnlineEdu.csprojResolveAssemblyReference.cache
+D:\QTDACNTT\OnlineEdu\OnlineEdu\obj\Debug\OnlineEdu.dll
+D:\QTDACNTT\OnlineEdu\OnlineEdu\obj\Debug\OnlineEdu.pdb
