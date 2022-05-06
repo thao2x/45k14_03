@@ -50,7 +50,7 @@
                             All of the narration contains English subtitles, so that foreigner Japanese learners can freely study.</p><!-- /.footer-widget__text -->
                         <div class="footer-widget__btn-block">
                             <a href="contact.html" class="thm-btn">Contact</a><!-- /.thm-btn -->
-                            <a href="#" class="thm-btn">Purchase</a><!-- /.thm-btn -->
+                            <a href="homepage.html" class="thm-btn">Purchase</a><!-- /.thm-btn -->
                         </div><!-- /.footer-widget__btn-block -->
                     </div><!-- /.footer-widget -->
                 </div><!-- /.col-lg-3 -->

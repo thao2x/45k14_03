@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Pricing plans || Kipso</title>
+    <title>Contact Page || Kipso</title>
     <link rel="apple-touch-icon" sizes="180x180" href="/assets_homepage/assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/assets_homepage/assets/images/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/assets_homepage/assets/images/favicons/favicon-16x16.png">
@@ -83,7 +83,7 @@
                                 <a href="/course">Courses</a>
                                 <ul class="sub-menu">
                                     <li><a href="/course">Courses</a></li>
-                                    <li><a href="/course-details-n1">Course Details</a></li>
+                                    <li><a href="/course-details-n2">Course Details</a></li>
                                 </ul><!-- /.sub-menu -->
                             </li>
                             <li>
@@ -115,75 +115,71 @@
         <section class="inner-banner">
             <div class="container">
                 <ul class="list-unstyled thm-breadcrumb">
-                    <li><a href="/">Home</a></li>
-                    <li class="active"><a href="#">Pricing plans</a></li>
+                    <li><a href="#">Home</a></li>
+                    <li class="active"><a href="#">Payment</a></li>
                 </ul><!-- /.list-unstyled -->
-                <h2 class="inner-banner__title">Pricing plans</h2><!-- /.inner-banner__title -->
+                <h2 class="inner-banner__title">Payment</h2><!-- /.inner-banner__title -->
             </div><!-- /.container -->
         </section><!-- /.inner-banner -->
-        <section class="pricing-one pricing-page">
+        <section class="contact-info-one">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-4">
-                        <div class="pricing-one__single">
-                            <div class="pricing-one__inner">
-                                <h2 class="pricing-one__price">4.000.000VND </h2><!-- /.pricing-one__price -->
-                                <p class="pricing-one__name">basic pack</p><!-- /.pricing-one__name -->
-                                <ul class="pricing-one__list list-unstyled">
-                                    <li>Combo N4+N5</li>
-                                    <li>Lifetime free support</li>
-                                    <li>Join forum</li>
-                                    <li>12 months time</li>
-                                </ul><!-- /.pricing-one__list -->
-                                <a href="/payment" class="thm-btn pricing-one__btn">Choose Plan</a><!-- /.thm-btn -->
-                                <p class="pricing-one__tag-line">No hidden charges!</p><!-- /.pricing-one__tag-line -->
-                            </div><!-- /.pricing-one__inner -->
-                        </div><!-- /.pricing-one__single -->
+                        <div class="contact-info-one__single wow fadeInDown" data-wow-duration="1500ms">
+                            <div class="contact-info-one__icon"><i class="kipso-icon-manager"></i><!-- /.kipso-icon-manager -->
+                            </div><!-- /.contact-info-one__icon -->
+                            <h2 class="contact-info-one__title">About Us </h2><!-- /.contact-info-one__title -->
+                            <p class="contact-info-one__text">Japanese learning center
+                                </p><!-- /.contact-info-one__text -->
+                        </div><!-- /.contact-info-one__single -->
                     </div><!-- /.col-lg-4 -->
                     <div class="col-lg-4">
-                        <div class="pricing-one__single">
-                            <div class="pricing-one__inner">
-                                <h2 class="pricing-one__price">5.000.000VND </h2><!-- /.pricing-one__price -->
-                                <p class="pricing-one__name">medium pack</p><!-- /.pricing-one__name -->
-                                <ul class="pricing-one__list list-unstyled">
-                                    <li>Combo N3+N2</li>
-                                    <li>Lifetime free support</li>
-                                    <li>Join forum</li>
-                                    <li>24 months time</li>
-                                </ul><!-- /.pricing-one__list -->
-                                <a href="/payment" class="thm-btn pricing-one__btn">Choose Plan</a><!-- /.thm-btn -->
-                                <p class="pricing-one__tag-line">No hidden charges!</p><!-- /.pricing-one__tag-line -->
-                            </div><!-- /.pricing-one__inner -->
-                        </div><!-- /.pricing-one__single -->
+                        <div class="contact-info-one__single wow fadeInUp" data-wow-duration="1500ms">
+                            <div class="contact-info-one__icon"><i class="kipso-icon-placeholder"></i>
+                                <!-- /.kipso-icon-manager -->
+                            </div><!-- /.contact-info-one__icon -->
+                            <h2 class="contact-info-one__title">Our Address</h2><!-- /.contact-info-one__title -->
+                            <p class="contact-info-one__text">71 Ngu Hanh Son,
+                                Da Nang <br> Viet Nam</p><!-- /.contact-info-one__text -->
+                        </div><!-- /.contact-info-one__single -->
                     </div><!-- /.col-lg-4 -->
                     <div class="col-lg-4">
-                        <div class="pricing-one__single">
-                            <div class="pricing-one__inner">
-                                <h2 class="pricing-one__price">5.500.000VND </h2><!-- /.pricing-one__price -->
-                                <p class="pricing-one__name">premium pack</p><!-- /.pricing-one__name -->
-                                <ul class="pricing-one__list list-unstyled">
-                                    <li>Combo N3+N2+N1</li>
-                                    <li>Lifetime free support</li>
-                                    <li>Join forum</li>
-                                    <li>36 months time</li>
-                                </ul><!-- /.pricing-one__list -->
-                                <a href="/payment" class="thm-btn pricing-one__btn">Choose Plan</a><!-- /.thm-btn -->
-                                <p class="pricing-one__tag-line">No hidden charges!</p><!-- /.pricing-one__tag-line -->
-                            </div><!-- /.pricing-one__inner -->
-                        </div><!-- /.pricing-one__single -->
+                        <div class="contact-info-one__single wow fadeInDown" data-wow-duration="1500ms">
+                            <div class="contact-info-one__icon"><i class="kipso-icon-contact"></i><!-- /.kipso-icon-manager -->
+                            </div><!-- /.contact-info-one__icon -->
+                            <h2 class="contact-info-one__title">Contact Info</h2><!-- /.contact-info-one__title -->
+                            <p class="contact-info-one__text">chieuthuymaijenny@gmail.com<br>
+                                0963 779 109 <br> &nbsp; </p><!-- /.contact-info-one__text -->
+                        </div><!-- /.contact-info-one__single -->
                     </div><!-- /.col-lg-4 -->
                 </div><!-- /.row -->
             </div><!-- /.container -->
-        </section><!-- /.pricing-one pricing-page -->
-        <section class="cta-one">
+        </section><!-- /.contact-info-one -->
+        <section class="contact-one">
             <div class="container">
-                <h2 class="cta-one__title">Fill form for free to regitser <br>
-                    yourself now</h2><!-- /.cta-one__title -->
-                <div class="cta-one__btn-block">
-                    <a href="/register" class="thm-btn cta-one__btn">Start Learning Now</a><!-- /.thm-btn -->
-                </div><!-- /.cta-one__btn-block -->
+                <h2 class="contact-one__title text-center">Contact us for payment <br>
+                    with us</h2><!-- /.contact-one__title -->
+                <form action="/assets_homepage/assets/inc/sendemail.php" class="contact-one__form contact-form-validated">
+                    <div class="row low-gutters">
+                        <div class="col-lg-6">
+                            <input type="text" name="name" placeholder="Your Name">
+                        </div><!-- /.col-lg-6 -->
+                        <div class="col-lg-6">
+                            <input type="text" placeholder="Email Address" name="email">
+                        </div><!-- /.col-lg-6 -->
+                        <div class="col-lg-12">
+                            <textarea placeholder="Write Message" name="message"></textarea>
+                            <div class="text-center">
+                                <button type="submit" class="contact-one__btn thm-btn">Submit</button>
+                            </div><!-- /.text-center -->
+                        </div><!-- /.col-lg-12 -->
+                    </div><!-- /.row -->
+                </form><!-- /.contact-one__form -->
+                <div class="result text-center"></div><!-- /.result -->
             </div><!-- /.container -->
-        </section><!-- /.cta-one -->
+        </section><!-- /.contact-one -->
+
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4562.753041141002!2d-118.80123790098536!3d34.152323469614075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e82469c2162619%3A0xba03efb7998eef6d!2sCostco+Wholesale!5e0!3m2!1sbn!2sbd!4v1562518641290!5m2!1sbn!2sbd" class="google-map__contact" allowfullscreen></iframe>
         <footer class="site-footer">
             <div class="site-footer__upper">
                 <div class="container">
@@ -291,4 +287,3 @@
 </body>
 
 </html>
-

@@ -474,7 +474,7 @@
                                             </div><!-- /.progress-one__single -->
                                         </div><!-- /.progress-one__wrap -->
 
-                                        <a href="#" class="thm-btn team-tab__btn">Learn More</a><!-- /.thm-btn -->
+                                        <a href="/course" class="thm-btn team-tab__btn">Learn More</a><!-- /.thm-btn -->
                                     </div><!-- /.team-tab__content -->
                                 </div><!-- /.my-auto -->
                             </div><!-- /.col-lg-6 -->
@@ -788,7 +788,7 @@
                 <h2 class="cta-five__title">Start growing with <br>
                     the community</h2><!-- /.cta-five__title -->
                 <p class="cta-five__text">Learning Japanese is to open your future</p><!-- /.cta-five__text -->
-                <a href="#" class="thm-btn cta-five__btn">Learn More</a><!-- /.thm-btn cta-five__btn -->
+                <a href="/contact" class="thm-btn cta-five__btn">Learn More</a><!-- /.thm-btn cta-five__btn -->
             </div><!-- /.container text-center -->
         </section><!-- /.cta-five -->
         <footer class="site-footer">
